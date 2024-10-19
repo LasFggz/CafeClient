@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://cafeclient.rf.gd"><img src="https://i.imgur.com/4KyLafL.png" width="86" height="86"></a>
+  <a href=""><img src="https://i.imgur.com/4KyLafL.png" width="86" height="86"></a>
 </p>
 
 <h1 align="center">Café Client</h1>
