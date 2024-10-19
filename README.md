@@ -4,7 +4,7 @@
 
 <h1 align="center">Café Client</h1>
 
-<h1 align="center">Café Client é um client de mods para Minecraft 1.8.9 focado em PvP, oferecendo otimizações de FPS, mods essenciais, cosméticos gratuitos e integração com Discord!
+**Café Client** é um client de mods para Minecraft 1.8.9 focado em PvP, oferecendo otimizações de FPS, mods essenciais, cosméticos gratuitos e integração com Discord!
 
 ## Comece agora
 
@@ -14,11 +14,10 @@
 ## Social
 
 - [Discord](https://discord.gg/3nTzpTfBeF)
-- [Twitter](I Dont in Brazil)
 
 ## Changelogs
 
-- [Client](https://github.com/LasFggz/CafeClient)
+- [Client](https://github.com/LasFggz/CafeClient/realeses)
 
 ## Recursos de Servidor
 
