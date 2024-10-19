@@ -1,5 +1,5 @@
 <p align="center">
-    <a href=""><img src="file:///C:/Users/morae/Downloads/hot-beverage_2615.png" width="86" height="86"></a>
+    <a href=""><img src="https://i.imgur.com/4KyLafL.png" width="86" height="86"></a>
 </p>
 
 <h1 align="center">CheatBreaker</h1>
