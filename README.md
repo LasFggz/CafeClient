@@ -12,7 +12,7 @@
 
 ## Social
 
-- [Discord](https://discord.gg/3nTzpTfBeF)
+- [Discord]()
 
 ## Changelogs
 
