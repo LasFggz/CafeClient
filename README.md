@@ -8,13 +8,13 @@
 
 ## Comece agora
 
-- [Website & Download](https://cafepvpclient.com)
-- [FAQ](https://cafepvpclient.com/faq)
+- [Website & Download](https://cafeclient.rf.gd)
+- [FAQ](not:( )
 
 ## Social
 
-- [Discord](https://discord.cafepvpclient.com)
-- [Twitter](https://twitter.cafepvpclient.com)
+- [Discord](https://discord.gg/3nTzpTfBeF)
+- [Twitter](I Dont in Brazil)
 
 ## Changelogs
 
