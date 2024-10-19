@@ -1,29 +1,26 @@
 <p align="center">
-    <a href=""><img src="https://i.imgur.com/4KyLafL.png" width="86" height="86"></a>
+  <a href="https://cafepvpclient.com"><img src="https://cafepvpclient.com/logo.png" width="86" height="86"></a>
 </p>
 
 <h1 align="center">Café Client</h1>
 
-CheatBreaker is a modpack and FPS booster combined, with 1.7.10 & 1.8.9 support, free cosmetics, launcher, Discord integration & more!
+**Café Client** é um client de mods para Minecraft 1.8.9 focado em PvP, oferecendo otimizações de FPS, mods essenciais, cosméticos gratuitos e integração com Discord!
 
-## 🎮 Get started
-- [Website & Download](https://cheatbreaker.net)
-- [FAQ](https://cheatbreaker.net/faq)
-- [Documentation](https://docs.cheatbreaker.net)
+## Comece agora
 
-## 🖥️ Social
-- [Discord](https://discord.cheatbreaker.net)
-- [Twitter](https://twitter.cheatbreaker.net)
-- [Mastodon](https://routing.center/@CheatBreaker)
-- [Telegram](https://telegram.cheatbreaker.net)
+- [Website & Download](https://cafepvpclient.com)
+- [FAQ](https://cafepvpclient.com/faq)
 
-## 📝 Changelogs
-- [Client](https://github.com/CheatBreakerNet/Client/releases)
-- [Launcher](https://github.com/CheatBreakerNet/Launcher/releases)
-- [Bukkit API](https://github.com/CheatBreakerNet/Bukkit-API/releases)
+## Social
 
-## ⌨️ Server resources
-- [Bukkit API](https://docs.cheatbreaker.net/category/bukkit-api)
-- [Connect with CheatBreaker](https://docs.cheatbreaker.net/category/connect-with-cheatbreaker)
-- [Server Mappings](https://docs.cheatbreaker.net/category/server-mappings)
-- [Status page](https://status.cheatbreaker.net)
+- [Discord](https://discord.cafepvpclient.com)
+- [Twitter](https://twitter.cafepvpclient.com)
+
+## Changelogs
+
+- [Client](https://github.com/CafeClient/Client/releases)
+
+## Recursos de Servidor
+
+- [API Bukkit](https://docs.cafepvpclient.com/bukkit-api)
+- [Status](https://status.cafepvpclient.com)
