@@ -18,8 +18,3 @@
 ## Changelogs
 
 - [Client](https://github.com/LasFggz/CafeClient/releases/tag/Cafe-Client)
-
-## Recursos de Servidor
-
-- [API Bukkit](https://docs.cafepvpclient.com/bukkit-api)
-- [Status](https://status.cafepvpclient.com)
