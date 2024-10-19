@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cafeclient.rf.gd"><img src="https://i.imgur.com/4KyLafL.png" width="86" height="86"></a>
+  <a href="http://cafeclient.rf.gd"><img src="https://i.imgur.com/4KyLafL.png" width="86" height="86"></a>
 </p>
 
 <h1 align="center">Café Client</h1>
@@ -8,7 +8,7 @@
 
 ## Comece agora
 
-- [Website & Download](https://cafeclient.rf.gd)
+- [Website & Download](http://cafeclient.rf.gd)
 
 ## Social
 
