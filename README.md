@@ -9,7 +9,6 @@
 ## Comece agora
 
 - [Website & Download](https://cafeclient.rf.gd)
-- [FAQ]()
 
 ## Social
 
@@ -17,7 +16,7 @@
 
 ## Changelogs
 
-- [Client](https://github.com/LasFggz/CafeClient/realeses)
+- [Client](https://github.com/LasFggz/CafeClient/releases/tag/Cafe-Client)
 
 ## Recursos de Servidor
 
