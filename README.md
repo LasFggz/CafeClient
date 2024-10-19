@@ -2,7 +2,7 @@
     <a href=""><img src="https://i.imgur.com/4KyLafL.png" width="86" height="86"></a>
 </p>
 
-<h1 align="center">CheatBreaker</h1>
+<h1 align="center">Café Client</h1>
 
 CheatBreaker is a modpack and FPS booster combined, with 1.7.10 & 1.8.9 support, free cosmetics, launcher, Discord integration & more!
 
